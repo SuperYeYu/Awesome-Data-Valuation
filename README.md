@@ -102,33 +102,5 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph
 
 
 
-## 🤝 Contributors
-
-<table style="border-collapse: collapse;">
-  <tr>
-    <td align="center" valign="top" width="160px" style="border: none;">
-      <a href="https://github.com/SuperYeYu" target="_blank">
-        <img src="https://github.com/SuperYeYu.png" width="100px" style="border-radius:50%; margin-bottom: 8px;" alt="Yeyu Yan"/>
-        <br />
-        <b>Yeyu Yan</b>
-      </a>
-      <br />
-      <a href="https://superyeyu.github.io/" target="_blank">
-        <small>🌐 Homepage</small>
-      </a>
-    </td>
-    <td align="center" valign="top" width="160px" style="border: none;">
-      <a href="https://github.com/boshizhu" target="_blank">
-        <img src="https://github.com/boshizhu.png" width="100px" style="border-radius:50%; margin-bottom: 8px;" alt="Xiangkai Zhu"/>
-        <br />
-        <b>Xiangkai Zhu</b>
-      </a>
-      <br />
-      <a href="https://github.com/boshizhu" target="_blank">
-        <small>🌐 Homepage</small>
-      </a>
-    </td>
-  </tr>
-</table>
 
 
