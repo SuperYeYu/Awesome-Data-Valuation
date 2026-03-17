@@ -2,7 +2,7 @@
 
 
 
-![image-20260306222323495](./image/image1.png)
+![image-20260306222323495](./image/image2.png)
 
 
 ## 🌟 Overview
