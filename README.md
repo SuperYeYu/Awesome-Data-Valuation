@@ -19,7 +19,7 @@ This repository summarizes representative papers from four major methodological 
 
 ## Latest Updates
 
-[21/05/2026] [Is Data Shapley Not Better than Random in Data Selection? Ask NASH]([ICML Poster Is Data Shapley Not Better than Random in Data Selection? Ask NASH](https://icml.cc/virtual/2026/poster/60914)) (ICML'26)
+[21/05/2026] [ICML Poster Is Data Shapley Not Better than Random in Data Selection? Ask NASH](https://icml.cc/virtual/2026/poster/60914) (ICML'26)
 
 ## Paper List
 
