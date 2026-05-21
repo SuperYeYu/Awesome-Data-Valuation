@@ -23,7 +23,7 @@ This repository summarizes representative papers from four major methodological 
 
 ## Paper List
 
-#### Classification explanation
+### Classification explanation
 
 **🎯Data Granularity:** Dataset, Sample, Element
 
@@ -35,7 +35,7 @@ This repository summarizes representative papers from four major methodological 
 
 **⚖️Task:** Discriminative, Generative, Instruction Tuning , Task-Agnostic 
 
-#### 1. Cooperative Game-based Valuation
+### 1. Cooperative Game-based Valuation
 
 - [**Towards Efficient Data Valuation Based on the Shapley Value**]() (AISTATS'19)
 
@@ -273,7 +273,7 @@ This repository summarizes representative papers from four major methodological 
 
   🎯Dataset  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-#### 2. Gradient-based Valuation
+### 2. Gradient-based Valuation
 
 - [**Understanding black-box predictions via influence functions**]() (ICML'17)
 
@@ -487,7 +487,7 @@ This repository summarizes representative papers from four major methodological 
 
   🎯Sample  🌐Text  📊White-Box  🧩Strong  ⚖️Instruction Tuning
 
-#### 3. Utility Learning and Bilevel Optimization
+### 3. Utility Learning and Bilevel Optimization
 
 - [**Data Valuation using Reinforcement Learning**]() (ICML'20)
 
@@ -585,7 +585,7 @@ This repository summarizes representative papers from four major methodological 
 
   🎯Sample  🌐Text  📊White-Box  🧩Strong  ⚖️Instruction Tuning
 
-#### 4. Model-agnostic Valuation
+### 4. Model-agnostic Valuation
 
 - [**Validation Free and Replication Robust Volume-based Data Valuation**]() (NeurIPS'21)
 
@@ -667,7 +667,7 @@ This repository summarizes representative papers from four major methodological 
 
   🎯Element  🌐Time-Series  📊Black-Box  🧩Strong  ⚖️Task-Agnostic
 
-#### 5. Other Related Methods
+### 5. Other Related Methods
 
 - [**The Value of Out-of-Distribution Data**]() (ICML'23)
 
