@@ -37,7 +37,7 @@ This repository summarizes representative papers from four major methodological 
 
 ### 1. Cooperative Game-based Valuation
 
-- [**Towards Efficient Data Valuation Based on the Shapley Value**]() (AISTATS'19)
+- [**Towards Efficient Data Valuation Based on the Shapley Value**](https://arxiv.org/abs/1902.10275) (AISTATS'19)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
