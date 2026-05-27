@@ -41,449 +41,449 @@ This repository summarizes representative papers from four major methodological 
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Profit allocation for federated learning**]() (BigData'19)
+- [**Profit allocation for federated learning**](https://hufudb.com/static/paper/2019/BigData2019_Profit%20Allocation%20for%20Federated%20Learning.pdf) (BigData'19)
 
   🎯Dataset  🌐Tabular  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms**]() (VLDB'19)
+- [**Efficient Task-Specific Data Valuation for Nearest Neighbor Algorithms**](https://arxiv.org/abs/1908.08619) (VLDB'19)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**An empirical and comparative analysis of data valuation with scalable algorithms**]() (OpenReview'19)
+- [**An empirical and comparative analysis of data valuation with scalable algorithms**](https://arxiv.org/abs/1911.07128v1) (OpenReview'19)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Data shapley: Equitable valuation of data for machine learning**]() (ICML'19)
+- [**Data shapley: Equitable valuation of data for machine learning**](https://arxiv.org/abs/1904.02868) (ICML'19)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**A distributional framework for data valuation**]() (ICML'20)
+- [**A distributional framework for data valuation**](https://arxiv.org/abs/2002.12334) (ICML'20)
 
   🎯Dataset  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**A principled approach to data valuation for federated learning**]() (FLPI'20)
+- [**A principled approach to data valuation for federated learning**](https://arxiv.org/abs/2009.06192) (FLPI'20)
 
   🎯Dataset  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Who's responsible? jointly quantifying the contribution of the learning algorithm and data**]() (AAAI'21)
+- [**Who's responsible? jointly quantifying the contribution of the learning algorithm and data**](https://arxiv.org/abs/1910.04214) (AAAI'21)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Efficient computation and analysis of distributional shapley values**]() (AISTATS'21)
+- [**Efficient computation and analysis of distributional shapley values**](https://arxiv.org/abs/2007.01357) (AISTATS'21)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Graphsvx: Shapley value explanations for graph neural networks**]() (ECML'21)
+- [**Graphsvx: Shapley value explanations for graph neural networks**](https://arxiv.org/abs/2104.10482) (ECML'21)
 
   🎯Sample  🌐Graph  📊Black-Box  🧩Self  ⚖️Discriminative
 
-- [**If you like shapley then you’ll love the core**]() (AAAI'21)
+- [**If you like shapley then you’ll love the core**](https://par.nsf.gov/servlets/purl/10250701) (AAAI'21)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Energy-Based Learning for Cooperative Games, with Applications to Valuation Problems in Machine Learning**]() (ICLR'21)
+- [**Energy-Based Learning for Cooperative Games, with Applications to Valuation Problems in Machine Learning**](https://arxiv.org/abs/2106.02938) (ICLR'21)
 
   🎯All  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Beta Shapley: a Unified and Noise-reduced Data Valuation Framework for Machine Learning**]() (AISTATS'22)
+- [**Beta Shapley: a Unified and Noise-reduced Data Valuation Framework for Machine Learning**](https://proceedings.mlr.press/v151/kwon22a/kwon22a.pdf) (AISTATS'22)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Weak  ⚖️Discriminative
 
-- [**Improving fairness for data valuation in horizontal federated learning**]() (ICDE'22)
+- [**Improving fairness for data valuation in horizontal federated learning**](https://ieeexplore.ieee.org/abstract/document/9835382) (ICDE'22)
 
   🎯Dataset  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**CS-Shapley: class-wise Shapley values for data valuation in classification**]() (NeurIPS'22)
+- [**CS-Shapley: class-wise Shapley values for data valuation in classification**](https://arxiv.org/abs/2211.06800) (NeurIPS'22)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Gtg-shapley: Efficient and accurate participant contribution evaluation in federated learning**]() (TIST'22)
+- [**Gtg-shapley: Efficient and accurate participant contribution evaluation in federated learning**](https://arxiv.org/abs/2109.02053) (TIST'22)
 
   🎯Dataset  🌐Tabular  📊Gray-Box  🧩Strong  ⚖️Discriminative
 
-- [**Differentially private Shapley values for data evaluation**]() (arXiv'22)
+- [**Differentially private Shapley values for data evaluation**](https://arxiv.org/abs/2206.00511) (arXiv'22)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Robust data valuation via variance reduced data shapley**]() (arXiv'22)
+- [**Robust data valuation via variance reduced data shapley**](https://arxiv.org/abs/2210.16835v2) (arXiv'22)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Weightedshap: analyzing and improving shapley based feature attributions**]() (NeurIPS'22)
+- [**Weightedshap: analyzing and improving shapley based feature attributions**](https://arxiv.org/abs/2209.13429) (NeurIPS'22)
 
   🎯Element  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**2D-shapley: A framework for fragmented data valuation**]() (ICML'23)
+- [**2D-shapley: A framework for fragmented data valuation**](https://arxiv.org/abs/2306.10473) (ICML'23)
 
   🎯Element  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Data banzhaf: A robust data valuation framework for machine learning**]() (AISTATS'23)
+- [**Data banzhaf: A robust data valuation framework for machine learning**](https://arxiv.org/abs/2205.15466) (AISTATS'23)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Weak  ⚖️Discriminative
 
-- [**Accelerated shapley value approximation for data evaluation**]() (arXiv'23)
+- [**Accelerated shapley value approximation for data evaluation**](https://arxiv.org/abs/2311.05346) (arXiv'23)
 
   🎯Sample  🌐Tabular  📊Black-Box 🧩Strong  ⚖️Discriminative
 
-- [**Poster: Verifiable data valuation with strong fairness in horizontal federated learning**]() (CCS'23)
+- [**Poster: Verifiable data valuation with strong fairness in horizontal federated learning**](https://dl.acm.org/doi/10.1145/3576915.3624402) (CCS'23)
 
   🎯Dataset  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Data valuation: The partial ordinal Shapley value for machine learning**]() (arXiv'23)
+- [**Data valuation: The partial ordinal Shapley value for machine learning**](https://arxiv.org/abs/2305.01660) (arXiv'23)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Optimizing Data Shapley Interaction Calculation from O (2^ n) to O (tn^ 2) for KNN models**]() (arXiv'23)
+- [**Optimizing Data Shapley Interaction Calculation from O (2^ n) to O (tn^ 2) for KNN models**](https://arxiv.org/abs/2304.01224) (arXiv'23)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Threshold KNN-Shapley: A Linear-Time and Privacy-Friendly Approach to Data Valuation (Workshop Version)**]() (NeurIPS'23)
+- [**Threshold KNN-Shapley: A Linear-Time and Privacy-Friendly Approach to Data Valuation (Workshop Version)**](https://arxiv.org/abs/2308.15709) (NeurIPS'23)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Data selection for fine-tuning large language models using transferred shapley values**]() (ACL'23)
+- [**Data selection for fine-tuning large language models using transferred shapley values**](https://arxiv.org/abs/2306.10165) (ACL'23)
 
   🎯Sample  🌐Text  📊Gray-Box  🧩Strong  ⚖️Discriminative
 
-- [**CHG Shapley: Efficient Data Valuation and Selection towards Trustworthy Machine Learning**]() (arXiv'24)
+- [**CHG Shapley: Efficient Data Valuation and Selection towards Trustworthy Machine Learning**](https://arxiv.org/abs/2406.11730) (arXiv'24)
 
   🎯Sample  🌐Tabular  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**On the inflation of knn-shapley value**]() (arXiv'24)
+- [**On the inflation of knn-shapley value**](https://arxiv.org/abs/2405.17489) (arXiv'24)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Data value estimation on private gradients**]() (arXiv'24)
+- [**Data value estimation on private gradients**](https://arxiv.org/abs/2412.17008) (arXiv'24)
 
   🎯All  🌐Tabular  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**Du-shapley: A shapley value proxy for efficient dataset valuation**]() (NeurIPS'24)
+- [**Du-shapley: A shapley value proxy for efficient dataset valuation**](https://arxiv.org/abs/2306.02071) (NeurIPS'24)
 
   🎯Dataset 🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Explaining graph neural networks via structure-aware interaction index**]() (ICML'24)
+- [**Explaining graph neural networks via structure-aware interaction index**](https://arxiv.org/abs/2405.14352) (ICML'24)
 
   🎯Sample  🌐Graph  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**NESTLE: An Efficient and Robust Data Valuation Framework for Large Language Models**]() (OpenReview'24)
+- [**NESTLE: An Efficient and Robust Data Valuation Framework for Large Language Models**](https://openreview.net/pdf?id=qk6AxjhFVR) (OpenReview'24)
 
   🎯Dataset  🌐Text  📊Black-Box  🧩Strong  ⚖️Generative
 
-- [**P-Shapley: Shapley Values on Probabilistic Classifiers.**]() (VLDB'24)
+- [**P-Shapley: Shapley Values on Probabilistic Classifiers.**](https://www.vldb.org/pvldb/vol17/p1737-liu.pdf) (VLDB'24)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Rethinking data shapley for data selection tasks: misleads and merits**]() (ICML'24)
+- [**Rethinking data shapley for data selection tasks: misleads and merits**](https://arxiv.org/abs/2405.03875) (ICML'24)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Efficient data shapley for weighted nearest neighbor algorithms**]() (AISTATS'24)
+- [**Efficient data shapley for weighted nearest neighbor algorithms**](https://arxiv.org/abs/2401.11103) (AISTATS'24)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Rewarding the Rare: Maverick-Aware Shapley Valuation in Federated Learning**]() (TMLR'25)
+- [**Rewarding the Rare: Maverick-Aware Shapley Valuation in Federated Learning**](https://openreview.net/pdf?id=JtybGfTUdq) (TMLR'25)
 
   🎯Dataset  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Efficient shapley-based data valuation for federated trajectories**]() (Frontiers of Computer Science'25)
+- [**Efficient shapley-based data valuation for federated trajectories**](https://link.springer.com/article/10.1007/s11704-025-51020-9) (Frontiers of Computer Science'25)
 
   🎯Dataset  🌐Time-Series  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Exact Computation of Any-Order Shapley Interactions for Graph Neural Networks**]() (ICLR'25)
+- [**Exact Computation of Any-Order Shapley Interactions for Graph Neural Networks**](https://arxiv.org/abs/2501.16944) (ICLR'25)
 
   🎯Sample  🌐Graph  📊Gray-Box  🧩Self  ⚖️Discriminative
 
-- [**Heterogeneous Graph Data Valuation: A Shapley Value-based Approach**]() (YAC'25)
+- [**Heterogeneous Graph Data Valuation: A Shapley Value-based Approach**](https://ieeexplore.ieee.org/document/11150137) (YAC'25)
 
   🎯Sample  🌐Graph  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Efficient data valuation approximation in federated learning: A sampling-based approach**]() (ICDE'25)
+- [**Efficient data valuation approximation in federated learning: A sampling-based approach**](https://ieeexplore.ieee.org/document/11112901) (ICDE'25)
 
   🎯Dataset  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Data shapley In One Training Run**]() (ICLR'25)
+- [**Data shapley In One Training Run**](https://arxiv.org/abs/2406.11011) (ICLR'25)
 
   🎯Sample  🌐Text  📊White-Box  🧩Strong  ⚖️Generative
 
-- [**Rethinking Data Value: Asymmetric Data Shapley for Structure-Aware Valuation in Data Markets and Machine Learning Pipelines**]() (arXiv'25)
+- [**Rethinking Data Value: Asymmetric Data Shapley for Structure-Aware Valuation in Data Markets and Machine Learning Pipelines**](https://arxiv.org/abs/2511.12863) (arXiv'25)
 
   🎯Dataset  🌐Text  📊Black-Box  🧩Strong  ⚖️Instruction Tuning
 
-- [**Precedence-Constrained Winter Value for Effective Graph Data Valuation**]() (ICLR'25)
+- [**Precedence-Constrained Winter Value for Effective Graph Data Valuation**](https://arxiv.org/abs/2402.01943) (ICLR'25)
 
   🎯Sample  🌐Graph  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**ShapG: new feature importance method based on the Shapley value**]() (EAAI'25)
+- [**ShapG: new feature importance method based on the Shapley value**](https://arxiv.org/abs/2407.00506) (EAAI'25)
 
   🎯Element  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**The surprising amount of arbitrariness in shapley-value data valuation**]() (ICLR'25)
+- [**The surprising amount of arbitrariness in shapley-value data valuation**](https://iclr.cc/virtual/2025/34475) (ICLR'25)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Data Pricing for Graph Neural Networks without Pre-purchased Inspection**]() (AAMAS'25)
+- [**Data Pricing for Graph Neural Networks without Pre-purchased Inspection**](https://arxiv.org/abs/2502.08284) (AAMAS'25)
 
   🎯Dataset  🌐Graph  📊Black-Box  🧩Self  ⚖️Discriminative
 
-- [**Localized Data Shapley: Accelerating Valuation for Nearest Neighbor Algorithms**]() (NeurIPS'25)
+- [**Localized Data Shapley: Accelerating Valuation for Nearest Neighbor Algorithms**](https://proceedings.neurips.cc/paper_files/paper/2025/hash/36ad3d922ec61116f2503f5851e07951-Abstract-Conference.html) (NeurIPS'25)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**TokenShapley: Token Level Context Attribution with Shapley Value**]() (ACL'25)
+- [**TokenShapley: Token Level Context Attribution with Shapley Value**](https://arxiv.org/abs/2507.05261) (ACL'25)
 
   🎯Element  🌐Text  📊Gray-Box  🧩Strong  ⚖️Generative
 
-- [**Data Overvaluation Attack and Truthful Data Valuation in Federated Learning**]() (arXiv'25)
+- [**Data Overvaluation Attack and Truthful Data Valuation in Federated Learning**](https://www.sciencestack.ai/paper/2502.00494) (arXiv'25)
 
   🎯Dataset  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**On the Impact of the Utility in Semivalue-based Data Valuation**]() (arXiv'25)
+- [**On the Impact of the Utility in Semivalue-based Data Valuation**](https://arxiv.org/abs/2502.06574) (arXiv'25)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Shapley-Based Data Valuation for Weighted $ k $-Nearest Neighbors**]() (NeurIPS'25)
+- [**Shapley-Based Data Valuation for Weighted $ k $-Nearest Neighbors**](https://papers.neurips.cc/paper_files/paper/2025/hash/4537592f9594a0522da99566b90380cc-Abstract-Conference.html) (NeurIPS'25)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Uncertainty-Aware Multimodal Learning via Conformal Shapley Intervals**]() (arXiv'26)
+- [**Uncertainty-Aware Multimodal Learning via Conformal Shapley Intervals**](https://arxiv.org/abs/2602.00171) (arXiv'26)
 
   🎯Element  🌐Multimodal  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**From points to coalitions: hierarchical contrastive shapley values for prioritizing data samples**]() (AAAI'26)
+- [**From points to coalitions: hierarchical contrastive shapley values for prioritizing data samples**](https://arxiv.org/abs/2512.19363) (AAAI'26)
 
   🎯Sample  🌐Streaming  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Local Shapley: Model-Induced Locality and Optimal Reuse in Data Valuation**]() (arXiv'26)
+- [**Local Shapley: Model-Induced Locality and Optimal Reuse in Data Valuation**](https://arxiv.org/abs/2603.03672) (arXiv'26)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**An Odd Estimator for Shapley Values**]() (arXiv'26)
+- [**An Odd Estimator for Shapley Values**](https://arxiv.org/abs/2602.01399) (arXiv'26)
 
   🎯Other  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Priority-Aware Shapley Value**]() (arXiv'26)
+- [**Priority-Aware Shapley Value**](https://arxiv.org/abs/2602.09326v1) (arXiv'26)
 
   🎯All  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Challenges in Enabling Private Data Valuation**]() (arXiv'26)
+- [**Challenges in Enabling Private Data Valuation**](https://arxiv.org/abs/2603.00342) (arXiv'26)
 
   🎯Sample  🌐Tabular  📊All  🧩Strong  ⚖️Discriminative
 
-- [**Shapley Value on Uncertain Data**]() (arXiv'26)
+- [**Shapley Value on Uncertain Data**](https://arxiv.org/abs/2601.14543) (arXiv'26)
 
   🎯Dataset  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
 ### 2. Gradient-based Valuation
 
-- [**Understanding black-box predictions via influence functions**]() (ICML'17)
+- [**Understanding black-box predictions via influence functions**](https://arxiv.org/abs/1703.04730) (ICML'17)
 
   🎯Sample  🌐Tabular  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**Finding influential training samples for gradient boosted decision trees**]() (ICML'18)
+- [**Finding influential training samples for gradient boosted decision trees**](https://arxiv.org/abs/1802.06640) (ICML'18)
 
   🎯Sample  🌐Tabular  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**On the accuracy of influence functions for measuring group effects**]() (NeurIPS'19)
+- [**On the accuracy of influence functions for measuring group effects**](https://arxiv.org/abs/1905.13289) (NeurIPS'19)
 
   🎯Dataset  🌐Tabular  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**Estimating training data influence by tracing gradient descent**]() (NeurIPS'20)
+- [**Estimating training data influence by tracing gradient descent**](https://arxiv.org/abs/2002.08484) (NeurIPS'20)
 
   🎯Sample  🌐Tabular  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**Influence Estimation for Generative Adversarial Networks**]() (ICLR'21)
+- [**Influence Estimation for Generative Adversarial Networks**](https://arxiv.org/abs/2101.08367) (ICLR'21)
 
   🎯Sample  🌐Tabular  📊White-Box  🧩Strong  ⚖️Generative
 
-- [**Make every example count: On the stability and utility of self-influence for learning from noisy NLP datasets**]() (EMNLP'23)
+- [**Make every example count: On the stability and utility of self-influence for learning from noisy NLP datasets**](https://aclanthology.org/2023.emnlp-main.625/) (EMNLP'23)
 
   🎯Sample  🌐Text  📊White-Box  🧩Self  ⚖️Generative
 
-- [**Gex: A flexible method for approximating influence via geometric ensemble**]() (NeurIPS'23)
+- [**Gex: A flexible method for approximating influence via geometric ensemble**](https://papers.nips.cc/paper_files/paper/2023/hash/1297ca5c906f4bada8f5f6f4e80f9dd2-Abstract-Conference.html) (NeurIPS'23)
 
   🎯Sample  🌐Tabular  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**Characterizing the influence of graph elements**]() (ICLR'23)
+- [**Characterizing the influence of graph elements**](https://arxiv.org/abs/2210.07441) (ICLR'23)
 
   🎯Element  🌐Graph  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**Studying large language model generalization with influence functions**]() (arXiv'23)
+- [**Studying large language model generalization with influence functions**](https://arxiv.org/abs/2308.03296) (arXiv'23)
 
   🎯Sample  🌐Text  📊White-Box  🧩Strong  ⚖️Generative
 
-- [**Self-influence guided data reweighting for language model pre-training**]() (EMNLP'23)
+- [**Self-influence guided data reweighting for language model pre-training**](https://arxiv.org/abs/2311.00913) (EMNLP'23)
 
   🎯Sample  🌐Text  📊White-Box  🧩Self  ⚖️Discriminative
 
-- [**Rge: A repulsive graph rectification for node classification via influence**]() (ICML'23)
+- [**Rge: A repulsive graph rectification for node classification via influence**](https://proceedings.mlr.press/v202/song23f.html) (ICML'23)
 
   🎯Element  🌐Graph  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**TRAK: attributing model behavior at scale**]() (ICML'23)
+- [**TRAK: attributing model behavior at scale**](https://arxiv.org/abs/2303.14186) (ICML'23)
 
   🎯Sample  🌐Tabular / Text  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**CoAst: Validation-Free Contribution Assessment for Federated Learning based on Cross-Round Valuation**]() (ACM MM'24)
+- [**CoAst: Validation-Free Contribution Assessment for Federated Learning based on Cross-Round Valuation**](https://dl.acm.org/doi/abs/10.1145/3664647.3680867) (ACM MM'24)
 
   🎯Dataset  🌐Tabular  📊White-Box  🧩Self  ⚖️Discriminative
 
-- [**Intriguing properties of data attribution on diffusion models**]() (ICLR'24)
+- [**Intriguing properties of data attribution on diffusion models**](https://arxiv.org/abs/2311.00500) (ICLR'24)
 
   🎯Sample  🌐Multimodal  📊White-Box  🧩Strong  ⚖️Generative
 
-- [**Data attribution for text-to-image models by unlearning synthesized images**]() (NeurIPS'24)
+- [**Data attribution for text-to-image models by unlearning synthesized images**](https://arxiv.org/abs/2406.09408) (NeurIPS'24)
 
   🎯Sample  🌐Multimodal  📊White-Box  🧩Strong  ⚖️Generative
 
-- [**DataInf: Efficiently Estimating Data Influence in LoRA-tuned LLMs and Diffusion Models**]() (ICLR'24)
+- [**DataInf: Efficiently Estimating Data Influence in LoRA-tuned LLMs and Diffusion Models**](https://arxiv.org/abs/2310.00902) (ICLR'24)
 
   🎯Sample  🌐Text / Multimodal  📊Gray-Box  🧩Strong  ⚖️Generative
 
-- [**Revisit, extend, and enhance hessian-free influence functions**]() (arXiv'24)
+- [**Revisit, extend, and enhance hessian-free influence functions**](https://arxiv.org/abs/2405.17490) (arXiv'24)
 
   🎯Sample  🌐Tabular  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**LIA: Privacy-Preserving Data Quality Evaluation in Federated Learning Using a Lazy Influence Approximation**]() (IEEE BigData'24)
+- [**LIA: Privacy-Preserving Data Quality Evaluation in Federated Learning Using a Lazy Influence Approximation**](https://arxiv.org/abs/2205.11518) (IEEE BigData'24)
 
   🎯Dataset  🌐Tabular  📊Gray-Box  🧩Strong  ⚖️Discriminative
 
-- [**LESS: Selecting Influential Data for Targeted Instruction Tuning**]() (ICML'24)
+- [**LESS: Selecting Influential Data for Targeted Instruction Tuning**](https://arxiv.org/abs/2402.04333) (ICML'24)
 
   🎯Sample  🌐Text  📊Gray-Box  🧩Strong  ⚖️Instruction Tuning
 
-- [**Token-wise Influential Training Data Retrieval for Large Language Models**]() (ACL'24)
+- [**Token-wise Influential Training Data Retrieval for Large Language Models**](https://arxiv.org/abs/2405.11724) (ACL'24)
 
   🎯Element  🌐Text  📊White-Box  🧩Strong  ⚖️Generative
 
-- [**Do Influence Functions Work on Large Language Models?**]() (arXiv'24)
+- [**Do Influence Functions Work on Large Language Models?**](https://arxiv.org/abs/2409.19998) (arXiv'24)
 
   🎯Sample  🌐Text  📊Gray-Box  🧩Strong  ⚖️Instruction Tuning
 
-- [**Training Data Attribution via Approximate Unrolling**]() (NeurIPS'24)
+- [**Training Data Attribution via Approximate Unrolling**](https://arxiv.org/abs/2405.12186) (NeurIPS'24)
 
   🎯Sample  🌐Tabular  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**Alinfik: Learning to approximate linearized future influence kernel for scalable third-parity LLM data valuation**]() (NAACL'25)
+- [**Alinfik: Learning to approximate linearized future influence kernel for scalable third-parity LLM data valuation**](https://arxiv.org/abs/2503.01052) (NAACL'25)
 
   🎯Sample  🌐Text  📊Gray-Box  🧩Strong  ⚖️Generative
 
-- [**Better training data attribution via better inverse hessian-vector products**]() (NeurIPS'25)
+- [**Better training data attribution via better inverse hessian-vector products**](https://arxiv.org/abs/2507.14740) (NeurIPS'25)
 
   🎯Sample  🌐Tabular  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**Bayesian Influence Functions for Hessian-Free Data Attribution**]() (arXiv'25)
+- [**Bayesian Influence Functions for Hessian-Free Data Attribution**](https://arxiv.org/abs/2509.26544) (arXiv'25)
 
   🎯Sample  🌐Tabular  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**Distributional Training Data Attribution: What do Influence Functions Sample?**]() (NeurIPS'25)
+- [**Distributional Training Data Attribution: What do Influence Functions Sample?**](https://arxiv.org/abs/2506.12965) (NeurIPS'25)
 
   🎯Sample  🌐Tabular  📊White-Box  🧩Strong  ⚖️Generative
 
-- [**Daunce: Data attribution through uncertainty estimation**]() (arXiv'25)
+- [**Daunce: Data attribution through uncertainty estimation**](https://arxiv.org/abs/2505.23223) (arXiv'25)
 
   🎯Sample  🌐Text  📊Black-Box  🧩Strong  ⚖️Instruction Tuning
 
-- [**Diff-In: data influence estimation with differential approximation**]() (OpenReview'25)
+- [**Diff-In: data influence estimation with differential approximation**](https://openreview.net/pdf?id=Jds4tiTo2a) (ICLR'25)
 
   🎯Sample  🌐Text / Multimodal  📊White-Box  🧩Strong  ⚖️Generative
 
-- [**Influence Functions for Scalable Data Attribution in Diffusion Models**]() (ICLR'25)
+- [**Influence Functions for Scalable Data Attribution in Diffusion Models**](https://proceedings.iclr.cc/paper_files/paper/2025/hash/804dbf8d3b8eee1ef875c6857efc64eb-Abstract-Conference.html) (ICLR'25)
 
   🎯Sample  🌐Tabular  📊White-Box  🧩Strong  ⚖️Generative
 
-- [**Adaptive Data Selection for Multi-Layer Perceptron Training: A Sub-linear Value-Driven Method**]() (arXiv'25)
+- [**Adaptive Data Selection for Multi-Layer Perceptron Training: A Sub-linear Value-Driven Method**](https://arxiv.org/abs/2510.21286) (arXiv'25)
 
   🎯Sample  🌐Tabular  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**Influence Functions for Edge Edits in Non-Convex Graph Neural Networks**]() (NeurIPS'25)
+- [**Influence Functions for Edge Edits in Non-Convex Graph Neural Networks**](https://arxiv.org/abs/2506.04694) (NeurIPS'25)
 
   🎯Element  🌐Graph  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**Final-Model-Only Data Attribution with a Unifying View of Gradient-Based Methods**]() (NeurIPS'25)
+- [**Final-Model-Only Data Attribution with a Unifying View of Gradient-Based Methods**](https://arxiv.org/abs/2412.03906) (NeurIPS'25)
 
   🎯Sample  🌐Tabular  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**If-guide: Influence function-guided detoxification of llms**]() (NeurIPS'25)
+- [**If-guide: Influence function-guided detoxification of llms**](https://arxiv.org/abs/2506.01790) (NeurIPS'25)
 
   🎯Element  🌐Text  📊White-Box  🧩Strong  ⚖️Generative
 
-- [**Revisiting data attribution for influence functions**]() (arXiv'25)
+- [**Revisiting data attribution for influence functions**](https://arxiv.org/pdf/2508.07297) (arXiv'25)
 
   🎯Sample  🌐Tabular  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**Efficient data selection at scale via influence distillation**]() (NeurIPS'25)
+- [**Efficient data selection at scale via influence distillation**](https://arxiv.org/abs/2505.19051) (NeurIPS'25)
 
   🎯Sample  🌐Text  📊White-Box  🧩Strong  ⚖️Instruction Tuning
 
-- [**Which Data Attributes Stimulate Math and Code Reasoning? An Investigation via Influence Functions**]() (NeurIPS'25)
+- [**Which Data Attributes Stimulate Math and Code Reasoning? An Investigation via Influence Functions**](https://arxiv.org/abs/2505.19949) (NeurIPS'25)
 
   🎯Element  🌐Text  📊White-Box  🧩Strong  ⚖️Instruction Tuning
 
-- [**Influence functions for efficient data selection in reasoning**]() (arXiv'25)
+- [**Influence functions for efficient data selection in reasoning**](https://arxiv.org/abs/2510.06108) (arXiv'25)
 
   🎯Sample  🌐Text  📊White-Box  🧩Strong  ⚖️Instruction Tuning
 
-- [**Kernel von Mises Formula of the Influence Function**]() (NeurIPS'25)
+- [**Kernel von Mises Formula of the Influence Function**](https://papers.neurips.cc/paper_files/paper/2025/file/0dde49ec491174a11272c5e1e6013f9f-Paper-Conference.pdf) (NeurIPS'25)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Self  ⚖️Discriminative
 
-- [**Layer-Aware Influence for Online Data Valuation Estimation**]() (arXiv'25)
+- [**Layer-Aware Influence for Online Data Valuation Estimation**](https://arxiv.org/abs/2510.16007) (arXiv'25)
 
   🎯Sample  🌐Tabular / Text  📊White-Box  🧩Self  ⚖️Generative
 
-- [**LayerIF: Estimating Layer Quality for Large Language Models using Influence Functions**]() (NeurIPS'25)
+- [**LayerIF: Estimating Layer Quality for Large Language Models using Influence Functions**](https://arxiv.org/abs/2505.23811) (NeurIPS'25)
 
   🎯Element  🌐Text  📊Gray-Box  🧩Strong  ⚖️N / A
 
-- [**LimaCost: Data Valuation for Instruction Tuning of Large Language Models**]() (EMNLP'25)
+- [**LimaCost: Data Valuation for Instruction Tuning of Large Language Models**](https://aclanthology.org/2025.findings-emnlp.688/) (EMNLP'25)
 
   🎯Sample  🌐Text  📊Gray-Box  🧩Strong  ⚖️Instruction Tuning
 
-- [**What is Your Data Worth to GPT? LLM-Scale Data Valuation with Influence Functions**]() (NeurIPS'25)
+- [**What is Your Data Worth to GPT? LLM-Scale Data Valuation with Influence Functions**](https://arxiv.org/abs/2405.13954) (NeurIPS'25)
 
   🎯Sample  🌐Text  📊Gray-Box  🧩Strong  ⚖️Generative
 
-- [**Towards understanding valuable preference data for large language model alignment**]() (arXiv'25)
+- [**Towards understanding valuable preference data for large language model alignment**](https://arxiv.org/abs/2510.13212) (arXiv'25)
 
   🎯Sample  🌐Text  📊White-Box  🧩Weak  ⚖️Instruction Tuning
 
-- [**Lightweight Time Series Data Valuation on Time Series Foundation Models via In-Context Finetuning**]() (arXiv'25)
+- [**Lightweight Time Series Data Valuation on Time Series Foundation Models via In-Context Finetuning**](https://arxiv.org/abs/2511.11648) (arXiv'25)
 
   🎯Sample  🌐Time-Series  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**Magic: Near-optimal data attribution for deep learning**]() (arXiv'25)
+- [**Magic: Near-optimal data attribution for deep learning**](https://arxiv.org/abs/2504.16430) (arXiv'25)
 
   🎯Sample  🌐Tabular  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**First is Not Really Better Than Last: Evaluating Layer Choice and Aggregation Strategies in Language Model Data Influence Estimation**]() (arXiv'25)
+- [**First is Not Really Better Than Last: Evaluating Layer Choice and Aggregation Strategies in Language Model Data Influence Estimation**](https://arxiv.org/abs/2511.04715) (arXiv'25)
 
   🎯Sample  🌐Text  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**Rescaled Influence Functions: Accurate Data Attribution in High Dimension**]() (NeurIPS'25)
+- [**Rescaled Influence Functions: Accurate Data Attribution in High Dimension**](https://arxiv.org/abs/2506.06656) (NeurIPS'25)
 
   🎯Sample  🌐Tabular  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**Scalable Data Attribution via Forward-Only Test-Time Inference**]() (arXiv'25)
+- [**Scalable Data Attribution via Forward-Only Test-Time Inference**](https://arxiv.org/abs/2511.19803) (arXiv'25)
 
   🎯Sample  🌐Tabular  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**Capturing the Temporal Dependence of Training Data Influence**]() (ICLR'25)
+- [**Capturing the Temporal Dependence of Training Data Influence**](https://openreview.net/pdf?id=uHLgDEgiS5) (ICLR'25)
 
   🎯Sample  🌐Tabular / Text  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**TimeInf: Time Series Data Contribution via Influence Functions**]() (ICLR'25)
+- [**TimeInf: Time Series Data Contribution via Influence Functions**](https://arxiv.org/abs/2407.15247) (ICLR'25)
 
   🎯Element  🌐Time-Series  📊White-Box  🧩Weak  ⚖️Discriminative
 
-- [**Z0-Inf: Zeroth Order Approximation for Data Influence**]() (arXiv'25)
+- [**Z0-Inf: Zeroth Order Approximation for Data Influence**](https://arxiv.org/abs/2510.11832) (arXiv'25)
 
   🎯Sample  🌐Text  📊Gray-Box  🧩Self  ⚖️Discriminative
 
-- [**A Versatile Influence Function for Data Attribution with Non-Decomposable Loss**]() (ICML'25)
+- [**A Versatile Influence Function for Data Attribution with Non-Decomposable Loss**](https://openreview.net/pdf?id=p85TNN62KD) (ICML'25)
 
   🎯Sample  🌐Tabular / Graph  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**LoRIF: Low-Rank Influence Functions for Scalable Training Data Attribution**]() (arXiv'26)
+- [**LoRIF: Low-Rank Influence Functions for Scalable Training Data Attribution**](https://arxiv.org/abs/2601.21929) (arXiv'26)
 
   🎯Sample  🌐Text  📊White-Box  🧩Strong  ⚖️Instruction Tuning
 
