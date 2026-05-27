@@ -33,7 +33,7 @@ This repository summarizes representative papers from four major methodological 
 
 **🧩Reference Set Dependency:** Strong, Weak, Self
 
-**⚖️Task:** Discriminative, Generative, Instruction Tuning , Task-Agnostic 
+**⚖️Task:** Discriminative, Generative, Instruction Tuning, Task-Agnostic 
 
 ### 1. Cooperative Game-based Valuation
 
