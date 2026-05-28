@@ -489,223 +489,223 @@ This repository summarizes representative papers from four major methodological 
 
 ### 3. Utility Learning and Bilevel Optimization
 
-- [**Data Valuation using Reinforcement Learning**]() (ICML'20)
+- [**Data Valuation using Reinforcement Learning**](https://arxiv.org/abs/1909.11671) (ICML'20)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Efficient Client Contribution Evaluation for Horizontal Federated Learning**]() (ICASSP'21)
+- [**Efficient Client Contribution Evaluation for Horizontal Federated Learning**](https://arxiv.org/abs/2102.13314) (ICASSP'21)
 
   🎯Dataset  🌐Tabular  📊Gray-Box  🧩Strong  ⚖️Discriminative
 
-- [**Learnability of Learning Performance and Its Application to Data Valuation**]() (arXiv'21)
+- [**Learnability of Learning Performance and Its Application to Data Valuation**](https://arxiv.org/abs/2107.06336v1) (arXiv'21)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Measuring the Effect of Training Data on Deep Learning Predictions via Randomized Experiments**]() (ICML'22)
+- [**Measuring the Effect of Training Data on Deep Learning Predictions via Randomized Experiments**](https://arxiv.org/abs/2206.10013) (ICML'22)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Datamodels: Predicting Predictions from Training Data**]() (ICML'22)
+- [**Datamodels: Predicting Predictions from Training Data**](https://arxiv.org/abs/2202.00622) (ICML'22)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Data-OOB: Out-of-bag Estimate as a Simple and Efficient Data Value**]() (ICML'23)
+- [**Data-OOB: Out-of-bag Estimate as a Simple and Efficient Data Value**](https://arxiv.org/abs/2304.07718) (ICML'23)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Training Data Attribution for Diffusion Models**]() (arXiv'23)
+- [**Training Data Attribution for Diffusion Models**](https://arxiv.org/abs/2306.02174) (arXiv'23)
 
   🎯Sample  🌐Synthetic  📊White-Box  🧩Self  ⚖️Generative
 
-- [**EcoVal: An Efficient Data Valuation Framework for Machine Learning**]() (KDD'24)
+- [**EcoVal: An Efficient Data Valuation Framework for Machine Learning**](https://arxiv.org/abs/2402.09288) (KDD'24)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Data Valuation by Leveraging Global and Local Statistical Information**]() (arXiv'24)
+- [**Data Valuation by Leveraging Global and Local Statistical Information**](https://www.aminer.cn/pub/66568c4501d2a3fbfc27b55a/data-valuation-by-leveraging-global-and-local-statistical-information) (arXiv'24)
 
   🎯Sample  🌐Streaming  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**LossVal: Efficient Data Valuation for Neural Networks**]() (arXiv'24)
+- [**LossVal: Efficient Data Valuation for Neural Networks**](https://arxiv.org/abs/2412.04158) (arXiv'24)
 
   🎯Sample  🌐Tabular  📊White-Box  🧩Self  ⚖️Discriminative
 
-- [**Is Data Valuation Learnable and Interpretable?**]() (arXiv'24)
+- [**Is Data Valuation Learnable and Interpretable?**](https://arxiv.org/abs/2406.02612) (arXiv'24)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Scaling Laws for the Value of Individual Data Points in Machine Learning**]() (ICML'24)
+- [**Scaling Laws for the Value of Individual Data Points in Machine Learning**](https://www.semanticscholar.org/paper/Scaling-Laws-for-the-Value-of-Individual-Data-in-Covert-Ji/da363589a39d5932ac625365c40654e0045fd88b) (ICML'24)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Stochastic Amortization: A Unified Approach to Accelerate Feature and Data Attribution**]() (NeurIPS'24)
+- [**Stochastic Amortization: A Unified Approach to Accelerate Feature and Data Attribution**](https://arxiv.org/abs/2401.15866) (NeurIPS'24)
 
   🎯Dataset  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Region-Level Data Attribution for Text-to-Image Generative Models**]() (ICCV'25)
+- [**Region-Level Data Attribution for Text-to-Image Generative Models**](https://openaccess.thecvf.com/content/ICCV2025/papers/Nguyen_Region-Level_Data_Attribution_for_Text-to-Image_Generative_Models_ICCV_2025_paper.pdf) (ICCV'25)
 
   🎯Element  🌐Multimodal  📊Black-Box  🧩Strong  ⚖️Generative
 
-- [**Beyond Models Explainable Data Valuation and Metric Adaption for Recommendation**]() (SDM'25)
+- [**Beyond Models Explainable Data Valuation and Metric Adaption for Recommendation**](https://arxiv.org/abs/2502.08685) (SDM'25)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Fast Data Attribution for Text-to-Image Models**]() (arXiv'25)
+- [**Fast Data Attribution for Text-to-Image Models**](https://arxiv.org/abs/2511.10721) (arXiv'25)
 
   🎯Sample  🌐Multimodal  📊Gray-Box  🧩Strong  ⚖️Generative
 
-- [**Efficient Forward-Only Data Valuation for Pretrained LLMs and VLMs**]() (arXiv'25)
+- [**Efficient Forward-Only Data Valuation for Pretrained LLMs and VLMs**](https://www.semanticscholar.org/paper/Efficient-Forward-Only-Data-Valuation-for-LLMs-and-Deng-Zhang/a1d909eb3c0406dec6574065f11cf274ebc99840) (arXiv'25)
 
   🎯Sample  🌐Multimodal  📊Gray-Box  🧩Strong  ⚖️Generative
 
-- [**Data-Efficient Pretraining with Group-Level Data Influence Modeling**]() (arXiv'25)
+- [**Data-Efficient Pretraining with Group-Level Data Influence Modeling**](https://arxiv.org/html/2502.14709) (arXiv'25)
 
   🎯Dataset  🌐Text  📊White-Box  🧩Strong  ⚖️Generative
 
-- [**Error Estimate and Convergence Analysis for Data Valuation**]() (arXiv'25)
+- [**Error Estimate and Convergence Analysis for Data Valuation**](https://arxiv.org/abs/2511.06463) (arXiv'25)
 
   🎯Sample  🌐Tabular  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**Neural Networks for Learnable and Scalable Influence Estimation of Instruction Fine-Tuning Data**]() (arXiv'25)
+- [**Neural Networks for Learnable and Scalable Influence Estimation of Instruction Fine-Tuning Data**](https://arxiv.org/abs/2502.09969) (arXiv'25)
 
   🎯Sample  🌐Text  📊Gray-Box  🧩Strong  ⚖️Instruction Tuning
 
-- [**Shapley-Guided Utility Learning for Effective Graph Inference Data Valuation**]() (ICLR'25)
+- [**Shapley-Guided Utility Learning for Effective Graph Inference Data Valuation**](https://arxiv.org/abs/2503.18195) (ICLR'25)
 
   🎯Element  🌐Graph  📊Black-Box  🧩Self  ⚖️Discriminative
 
-- [**TSRating: Rating Quality of Diverse Time Series Data by Meta-learning from LLM Judgment**]() (arXiv'25)
+- [**TSRating: Rating Quality of Diverse Time Series Data by Meta-learning from LLM Judgment**](https://arxiv.org/abs/2506.01290) (arXiv'25)
 
   🎯Sample  🌐Time-Series  📊Black-Box  🧩Self  ⚖️Discriminative
 
-- [**Fast-DataShapley: Neural Modeling for Training Data Valuation**]() (WSDM'26)
+- [**Fast-DataShapley: Neural Modeling for Training Data Valuation**](https://arxiv.org/abs/2506.05281) (WSDM'26)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Influence-Preserving Proxies for Gradient-Based Data Selection in LLM Fine-tuning**]() (arXiv'26)
+- [**Influence-Preserving Proxies for Gradient-Based Data Selection in LLM Fine-tuning**](https://openreview.net/forum?id=PDNpRLxDlI) (arXiv'26)
 
   🎯Sample  🌐Text  📊White-Box  🧩Strong  ⚖️Instruction Tuning
 
 ### 4. Model-agnostic Valuation
 
-- [**Validation Free and Replication Robust Volume-based Data Valuation**]() (NeurIPS'21)
+- [**Validation Free and Replication Robust Volume-based Data Valuation**](https://proceedings.neurips.cc/paper/2021/hash/59a3adea76fadcb6dd9e54c96fc155d1-Abstract.html) (NeurIPS'21)
 
   🎯Dataset  🌐Tabular  📊Black-Box  🧩Self  ⚖️Task-Agnostic
 
-- [**Incentivizing Collaboration in Machine Learning via Synthetic Data Rewards**]() (AAAI'22)
+- [**Incentivizing Collaboration in Machine Learning via Synthetic Data Rewards**](https://arxiv.org/abs/2112.09327) (AAAI'22)
 
   🎯Dataset  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Generative
 
-- [**DAVINZ: Data Valuation using Deep Neural Networks at Initialization**]() (ICML'22)
+- [**DAVINZ: Data Valuation using Deep Neural Networks at Initialization**](https://github.com/ZhaoxuanWu/DAVINZ-DataValuation) (ICML'22)
 
   🎯Dataset  🌐Tabular  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**Data Valuation Without Training of a Model**]() (ICLR'23)
+- [**Data Valuation Without Training of a Model**](https://openreview.net/forum?id=XIzO8zr-WbM) (ICLR'23)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Self  ⚖️Discriminative
 
-- [**LAVA: Data Valuation without Pre-Specified Learning Algorithms**]() (ICLR'23)
+- [**LAVA: Data Valuation without Pre-Specified Learning Algorithms**](https://github.com/reds-lab/LAVA) (ICLR'23)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Task-Agnostic
 
-- [**Fundamentals of Task-Agnostic Data Valuation**]() (AAAI'23)
+- [**Fundamentals of Task-Agnostic Data Valuation**](https://arxiv.org/abs/2208.12354) (AAAI'23)
 
   🎯Dataset  🌐Tabular  📊Black-Box  🧩Self  ⚖️Task-Agnostic
 
-- [**Data Valuation in the Absence of a Reliable Validation Set**]() (TMLR'24)
+- [**Data Valuation in the Absence of a Reliable Validation Set**](https://openreview.net/pdf?id=xBORyL316c) (TMLR'24)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Self  ⚖️Discriminative
 
-- [**Data Valuation and Detections in Federated Learning**]() (CVPR'24)
+- [**Data Valuation and Detections in Federated Learning**](https://arxiv.org/abs/2311.05304) (CVPR'24)
 
   🎯Dataset  🌐Tabular  📊Black-Box  🧩Self  ⚖️Discriminative
 
-- [**Proper Dataset Valuation by Pointwise Mutual Information**]() (arXiv'24)
+- [**Proper Dataset Valuation by Pointwise Mutual Information**](https://arxiv.org/abs/2405.18253) (arXiv'24)
 
   🎯Dataset  🌐Tabular  📊Black-Box  🧩Self  ⚖️Task-Agnostic
 
-- [**Data Valuation and Selection in a Federated Model Marketplace**]() (arXiv'25)
+- [**Data Valuation and Selection in a Federated Model Marketplace**](https://arxiv.org/abs/2509.18104) (arXiv'25)
 
   🎯Dataset  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Eigen-Value: Efficient Domain-Robust Data Valuation via Eigenvalue-Based Approach**]() (arXiv'25)
+- [**Eigen-Value: Efficient Domain-Robust Data Valuation via Eigenvalue-Based Approach**](https://arxiv.org/abs/2510.23409) (arXiv'25)
 
   🎯Sample 🌐Tabular 📊Gray-Box 🧩Self ⚖️Discriminative
 
-- [**Data Value in the Age of Scaling: Understanding LLM Scaling Dynamics Under Real-Synthetic Data Mixtures**]() (arXiv'25)
+- [**Data Value in the Age of Scaling: Understanding LLM Scaling Dynamics Under Real-Synthetic Data Mixtures**](https://arxiv.org/abs/2511.13640v1) (arXiv'25)
 
   🎯Dataset  🌐Text  📊White-Box  🧩Strong  ⚖️Generative
 
-- [**Fortifying Federated Learning Towards Trustworthiness via Auditable Data Valuation and Verifiable Client Contribution**]() (CVPR'25)
+- [**Fortifying Federated Learning Towards Trustworthiness via Auditable Data Valuation and Verifiable Client Contribution**](https://ieeexplore.ieee.org/document/11093960) (CVPR'25)
 
   🎯Dataset  🌐Tabular  📊Gray-Box  🧩Self  ⚖️Discriminative
 
-- [**Geometric Data Valuation via Leverage Scores**]() (arXiv'25)
+- [**Geometric Data Valuation via Leverage Scores**](https://arxiv.org/abs/2511.02100v1) (arXiv'25)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Self  ⚖️Task-Agnostic
 
-- [**GMValuator: Similarity-based Data Valuation for Generative Models**]() (ICLR'25)
+- [**GMValuator: Similarity-based Data Valuation for Generative Models**](https://arxiv.org/abs/2304.10701) (ICLR'25)
 
   🎯Sample  🌐Synthetic  📊Black-Box  🧩Self  ⚖️Generative
 
-- [**KAIROS: Scalable Model-Agnostic Data Valuation**]() (NeurIPS'25)
+- [**KAIROS: Scalable Model-Agnostic Data Valuation**](https://arxiv.org/abs/2506.23799) (NeurIPS'25)
 
   🎯Sample  🌐Streaming  📊Black-Box  🧩Strong  ⚖️Task-Agnostic
 
-- [**SAVA: Scalable Learning-Agnostic Data Valuation**]() (ICLR'25)
+- [**SAVA: Scalable Learning-Agnostic Data Valuation**](https://openreview.net/pdf?id=0UCoWxPhQ4) (ICLR'25)
 
   🎯Sample  🌐Tabular  📊Black-Box  🧩Strong  ⚖️Task-Agnostic
 
-- [**Privacy-Preserving Feature Valuation in Vertical Federated Learning Using Shapley-CMI and PSI Permutation**]() (arXiv'25)
+- [**Privacy-Preserving Feature Valuation in Vertical Federated Learning Using Shapley-CMI and PSI Permutation**](https://arxiv.org/abs/2512.14767) (arXiv'25)
 
   🎯Element  🌐Tabular  📊Black-Box  🧩Self  ⚖️Discriminative
 
-- [**Data Valuation for Vertical Federated Learning: A Model-Free and Privacy-Preserving Method**]() (MISQ'26)
+- [**Data Valuation for Vertical Federated Learning: A Model-Free and Privacy-Preserving Method**](https://arxiv.org/abs/2112.08364) (MISQ'26)
 
   🎯Dataset  🌐Tabular  📊Black-Box  🧩Self  ⚖️Discriminative
 
-- [**TimeLAVA: Learning-Agnostic Valuation for Time Series Data**]() (ICLR'26)
+- [**TimeLAVA: Learning-Agnostic Valuation for Time Series Data**](https://icml.cc/virtual/2026/poster/62497) (ICML'26)
 
   🎯Element  🌐Time-Series  📊Black-Box  🧩Strong  ⚖️Task-Agnostic
 
 ### 5. Other Related Methods
 
-- [**The Value of Out-of-Distribution Data**]() (ICML'23)
+- [**The Value of Out-of-Distribution Data**](https://arxiv.org/abs/2208.10967) (ICML'23)
 
   🎯Dataset  🌐Tabular  📊White-Box  🧩Weak  ⚖️Discriminative
 
-- [**In-context probing approximates influence function for data valuation**]() (arXiv'24)
+- [**In-context probing approximates influence function for data valuation**](https://arxiv.org/html/2407.12259v1) (arXiv'24)
 
   🎯Sample  🌐Text  📊Black-Box  🧩Strong  ⚖️Instruction Tuning
 
-- [**Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Models**]() (ICLR'25)
+- [**Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Models**](https://arxiv.org/abs/2410.18639) (ICLR'25)
 
   🎯Sample  🌐Tabular  📊White-Box  🧩Strong  ⚖️Generative
 
-- [**Data Valuation for LLM Fine-Tuning: Efficient Shapley Value Approximation via Language Model Arithmetic**]() (arXiv'25)
+- [**Data Valuation for LLM Fine-Tuning: Efficient Shapley Value Approximation via Language Model Arithmetic**](https://arxiv.org/abs/2512.15765) (arXiv'25)
 
   🎯Dataset  🌐Text  📊Gray-Box  🧩Strong  ⚖️Instruction Tuning
 
-- [**Beyond Uniform Deletion: A Data Value-Weighted Framework for Certified Machine Unlearning**]() (arXiv'25)
+- [**Beyond Uniform Deletion: A Data Value-Weighted Framework for Certified Machine Unlearning**](https://arxiv.org/abs/2511.06794) (arXiv'25)
 
   🎯Sample  🌐Tabular  📊White-Box  🧩Strong  ⚖️Discriminative
 
-- [**Do Data Valuations Make Good Data Prices?**]() (arXiv'25)
+- [**Do Data Valuations Make Good Data Prices?**](https://arxiv.org/abs/2511.06794) (arXiv'25)
 
   🎯Dataset  🌐Text  📊Black-Box  🧩Strong  ⚖️Generative
 
-- [**Fairshare Data Pricing via Data Valuation for Large Language Models**]() (NeurIPS'25)
+- [**Fairshare Data Pricing via Data Valuation for Large Language Models**](https://arxiv.org/abs/2502.00198) (NeurIPS'25)
 
   🎯Dataset  🌐Text  📊Black-Box  🧩Strong  ⚖️Instruction Tuning
 
-- [**Mixture-ofscores: Robust image-text data quality score via three lines of code**]() (ICCV'25)
+- [**Mixture-ofscores: Robust image-text data quality score via three lines of code**](https://openaccess.thecvf.com/content/ICCV2025/papers/Wu_Mixture-of-Scores_Robust_Image-Text_Data_Valuation_via_Three_Lines_of_Code_ICCV_2025_paper.pdf) (ICCV'25)
 
   🎯Sample  🌐Multimodal  📊Black-Box  🧩Self  ⚖️Generative
 
-- [**From Fairness to Truthfulness: Rethinking Data Valuation Design**]() (ICLR'25)
+- [**From Fairness to Truthfulness: Rethinking Data Valuation Design**](https://arxiv.org/html/2504.05563v1) (ICLR'25)
 
   🎯Dataset  🌐Text  📊Black-Box  🧩Strong  ⚖️Discriminative
 
-- [**Importance-aware data selection for efficient llm instruction tuning**]() (AAAI'26)
+- [**Importance-aware data selection for efficient llm instruction tuning**](https://arxiv.org/abs/2511.07074) (AAAI'26)
 
   🎯Sample  🌐Text  📊Black-Box  🧩Self  ⚖️Instruction Tuning
 
