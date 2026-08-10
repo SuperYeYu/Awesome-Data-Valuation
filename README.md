@@ -19,6 +19,8 @@ This repository summarizes representative papers from four major methodological 
 
 ## Latest Updates
 
+[10/08/2026] [An Asymptotic Analysis of the Shapley Value for Dataset Valuation](https://arxiv.org/pdf/2607.03374) (Arxiv'26)
+
 [21/05/2026] [ICML Poster Is Data Shapley Not Better than Random in Data Selection? Ask NASH](https://icml.cc/virtual/2026/poster/60914) (ICML'26)
 
 ## Paper List
