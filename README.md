@@ -19,6 +19,8 @@ This repository summarizes representative papers from four major methodological 
 
 ## Latest Updates
 
+[22/09/2026] [Node Importance Evaluation in Complex Networks Based on Graph Neural Networks: A Systematic Review](https://www.sciencedirect.com/science/article/abs/pii/S1007570426011652) (Communications in Nonlinear Science and Numerical Simulation 26)
+
 [10/08/2026] [An Asymptotic Analysis of the Shapley Value for Dataset Valuation](https://arxiv.org/pdf/2607.03374) (Arxiv'26)
 
 [LTSV: Layered Type-Constrained Shapley Value forHeterogeneous Graph Data Valuation](https://dl.acm.org/doi/epdf/10.1145/3770855.3817695) (KDD'26)
